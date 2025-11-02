@@ -42,3 +42,5 @@ pip install pyttsx3
 
 
 
+![WhatsApp Image 2025-10-29 at 15 42 23_e46dd13e](https://github.com/user-attachments/assets/138a9619-6ee8-442d-aaa9-ba1a0bb6ced6)
+
