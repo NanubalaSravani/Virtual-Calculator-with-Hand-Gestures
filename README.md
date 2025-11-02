@@ -40,4 +40,5 @@ pip install cvzone
 pip install mediapipe
 pip install pyttsx3
 
-```bash
+
+
